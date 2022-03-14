@@ -3,7 +3,6 @@ C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\bin\Debug\net5.0\EditorHt
 C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
 C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
 C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
-C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
 C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
 C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.AssemblyReference.cache
 C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\obj\Debug\net5.0\EditorHt
 C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
 C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
 C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache
+C:\Users\Tuca\Nova pasta\workspace\Balta.io\EditorHtml\obj\Debug\net5.0\refint\EditorHtml.dll
